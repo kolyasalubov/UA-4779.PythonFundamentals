@@ -3,7 +3,7 @@ Zen of Python!
 2. Oleh888
 3. ihorkuf
 4. Jombol
-5. albinasokyrko
+5.Flat is better than nested.
 6. maksymsemchyshak19
 7. twlfh
 8. rag1st
