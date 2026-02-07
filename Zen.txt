@@ -6,7 +6,7 @@ Zen of Python!
 5.Flat is better than nested.
 6. Sparse is better than dense.
 7. twlfh
-8. rag1st
+8. Special cases aren't special enough to break the rules.
 9. anzhelates
 10. dmytryshyn
 11. kobyrynka
