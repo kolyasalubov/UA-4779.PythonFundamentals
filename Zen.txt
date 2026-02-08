@@ -2,7 +2,7 @@ Zen of Python!
 1. 3n701u01
 2. Oleh888
 3. ihorkuf
-4. Jombol
+4. Complex is better than complicated.
 5.Flat is better than nested.
 6. Sparse is better than dense.
 7. twlfh
