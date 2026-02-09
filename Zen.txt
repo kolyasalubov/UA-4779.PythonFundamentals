@@ -11,3 +11,5 @@ Zen of Python!
 10. dmytryshyn
 11. kobyrynka
 12. kostiyabahrii-sudo
+13. danielukr0020
+14. sergiy-smaga
