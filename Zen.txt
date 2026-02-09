@@ -1,15 +1,13 @@
 Zen of Python!
-1. 3n701u01
-2. Oleh888
+1. Beautiful is better than ugly.
+2. Explicit is better than implicit.
 3. ihorkuf
-4. Jombol
-5. albinasokyrko
-6. maksymsemchyshak19
-7. twlfh
-8. rag1st
-9. anzhelates
+4. Complex is better than complicated.
+5.Flat is better than nested.
+6. Sparse is better than dense.
+7. Readability counts.
+8. Special cases aren't special enough to break the rules.
+9. Although practicality beats purity.
 10. dmytryshyn
 11. kobyrynka
 12. kostiyabahrii-sudo
-13. danielukr0020
-14. sergiy-smaga
