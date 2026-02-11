@@ -9,7 +9,7 @@ Zen of Python!
 8. Special cases aren't special enough to break the rules.
 9. Although practicality beats purity.
 10. Errors should never pass silently.
-11. kobyrynka
+11. Unless explicitly silenced.
 12. kostiyabahrii-sudo
 13. danielukr0020
 14. sergiy-smaga
