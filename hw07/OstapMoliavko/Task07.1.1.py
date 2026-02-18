@@ -1,8 +1,8 @@
 def show_largest(a, b):
-    '''
+    """
     This function returns largest number 
     of two, entered by user
-    '''
+    """
     l = 0
     if a > b:
         l = a
