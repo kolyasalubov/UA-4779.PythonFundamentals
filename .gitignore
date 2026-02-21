@@ -206,4 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+<<<<<<< HEAD
 .Ds_Store
+=======
+.DS_Store
+hw07/OstapMoliavko/Tasks07.3.py
+>>>>>>> 39f33ac (trying to ignore ds_store files)
