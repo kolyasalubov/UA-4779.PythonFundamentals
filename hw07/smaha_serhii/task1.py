@@ -1,7 +1,7 @@
 """module implements task 7.1"""
 import math
 
-def get_largest_number(a:int, b:int) -> int:
+def get_largest_number(a: int, b: int) -> int:
     """Returns the largest of two numbers"""
     return max(a, b)
 

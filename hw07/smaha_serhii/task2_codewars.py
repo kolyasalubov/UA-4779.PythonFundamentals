@@ -26,8 +26,8 @@ def reverse(st):
     words = st.split()
     return ' '.join(reversed(words))
 
-def reverse_list(l):
-    return list(reversed(l))
+def reverse_list(items):
+    return list(reversed(items))
 
 def solution(number):
     if number < 0:
